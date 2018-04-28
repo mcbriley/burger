@@ -1,15 +1,26 @@
 {
-    "name": "burger",
-    "version": "1.0.0",
-    "description": "burgers",
-    "main": "server.js",
-    "dependencies": {
-        "body-parser": "^1.15.0",
-        "express": "^4.16.3",
-        "express-handlebars": "^3.0.0",
-        "mysql": "^2.15.0"
-    },
-    "scripts": {
-        "start": "node server.js"
-    }
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burgers",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcbriley/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcbriley/burger/issues"
+  },
+  "homepage": "https://github.com/mcbriley/burger#readme"
 }
